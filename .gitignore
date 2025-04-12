@@ -1,0 +1,10 @@
+__pycache__/
+Dataset/
+Documentation/
+Documentation/Detectron2_Segmentation/Invoice_Segmentation/
+Documentation/Text_Classification/svm_model/
+Documentation/Text_Classification/vinai1/
+Documentation/Text_Classification/15-03-2025_22-26-19/
+src/module/img_segmentation/weights/model_final.pth
+src/module/text_detect/CRAFT/weights/craft_mlt_25k.pth
+src/module/text_detect/CRAFT/weights/craft_refiner_CTW1500.pth
